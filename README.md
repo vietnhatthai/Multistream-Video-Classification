@@ -1,4 +1,4 @@
-# Multistream-Video-Classification
+# Multi-stream Video Classification
 
 The repository is an extension of [video classification](https://github.com/HHTseng/video-classification) with multi-streams. A video is viewed as a 3D image or several continuous 2D images (Fig.1). Below are two simple neural nets models:
 
@@ -16,7 +16,7 @@ To avoid painful video preprocessing like frame extraction and conversion such a
 
 ## Models 
 
-### ** multi-stream CNN + RNN** (multi-stream CRNN)
+### **multi-stream CNN + RNN** (multi-stream CRNN)
 
 The multistream CRNN model is a pair of CNN encoder and RNN decoder (see figure below):
 
